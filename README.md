@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning data science: algorithm about marchine learning, data mining,..
 - 📫 ABout me:
   * FB: https://www.facebook.com/hieuuit/
-  * Linkedin: https://www.linkedin.com/in/hi%E1%BA%BFu-trung-758962147/
+  * Linkedin: www.linkedin.com/in/andreshieu
 
 
